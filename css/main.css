@@ -1,0 +1,38 @@
+h1 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.body {
+    background-color: tan;
+}
+
+.image .card{
+    box-shadow: 0 0 20px #ccc;
+}
+
+.card-img {
+    width: 250px;
+    height: 250px;
+}
+
+.lazy .img {
+    padding: 50px;
+    width: 250px;
+    height: 250px;
+}
+
+.card {
+    padding: 50px;
+    width: 450px;  
+    margin: 5px;
+}
+
+.card-body {
+    text-align: center;
+    width: 100%;
+}
+
+.container {
+    padding-bottom: 40px;
+}
